@@ -1,0 +1,25 @@
+Apa Itu C++
+
+--------------
+
+C++ dibuat oleh Bjarne Strustrup, pada tahun 1985.
+
+C++ pertamakali di buat untuk mengkompleksi C dengan menambah-nambahkan fitur, yg bertujuan untuk bisa melakukan hal yg lebih kompleks lagi.
+
+Pada 1998 C++ melakukan standarisasi.
+
+C++ support multi platform.
+
+Bagaimana cara kerja C++
+
+-----------------------------
+
+📝 Source file / source code
+
+📇 Compiler
+
+📄 Instruksi mesin / asamble
+
+📝--> 📇 -->📄
+
+Hal yg dibutuhkun untuk membuat program yaitu, code editor, compiler atau yg lebih komplek yaitu IDE.
