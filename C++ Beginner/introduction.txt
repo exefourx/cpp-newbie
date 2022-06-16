@@ -23,3 +23,5 @@ Bagaimana cara kerja C++
 📝--> 📇 -->📄
 
 Hal yg dibutuhkun untuk membuat program yaitu, code editor, compiler atau yg lebih komplek yaitu IDE.
+
+Thu, Jun 16 22. I'am back
